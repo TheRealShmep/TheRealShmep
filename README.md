@@ -1,4 +1,4 @@
-👋 Hi, I’m @TheRealShmep
+👋 Hi, I’m @TheRealShmep, I'm the dev and owner for Mudskipper: HL2RP.
 
 <!---
 TheRealShmep/TheRealShmep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
